@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me naveen.jose024@gmail.com
 
 <!---
 naveenJose24/naveenJose24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
