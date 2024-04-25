@@ -1,9 +1,9 @@
-<!--
+
 <h2 align="center">
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
+
 
 <!--
 <p align="center">
@@ -11,18 +11,19 @@
 </p>
 
  -->
+<!--
 
-<a href="https://komarev.com/ghpvc/?username=naveen jose">
+<a href="https://komarev.com/ghpvc/?username=naveenjose24">
   <img align="right" src="https://komarev.com/ghpvc/?username=naveen jose&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
+-->
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://naveen jose.com">Naveen Jose</a></b>
+                <b><a target="_blank" href="https://www.naveenjose.online/">Naveen Jose</a></b>
         </samp>
 </h3>
 
@@ -30,7 +31,7 @@
 
 
 <p align="center">
- <a href="https://naveen jose.com" target="blank">
+ <a href="https://www.naveenjose.online/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="naveen jose" />
  </a>
  <a href="https://www.linkedin.com/in/naveen-jose-377229145/" target="_blank">
@@ -39,13 +40,13 @@
  <!-- <a href="https://dev.to/naveenjose" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="naveen jose" />
  </a> -->
- <a href="[https://twitter.com/_naveenjose](https://twitter.com/NaveenJ93017603)" target="_blank">
+ <a href="https://twitter.com/NaveenJ93017603" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="[https://instagram.com/_naveenjose](https://www.instagram.com/n.a.v.e.e.n_j.o.s.e/?igshid=NzZlODBkYWE4Ng%3D%3D)" target="_blank">
+ <a href="https://www.instagram.com/n.a.v.e.e.n_j.o.s.e/?igshid=NzZlODBkYWE4Ng%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="naveen jose" />
  </a> 
- <a href="[https://facebook.com/naveenjose.dev](https://www.facebook.com/naveenjose24/)" target="_blank">
+ <a href="https://www.facebook.com/naveenjose24/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="naveen jose"  />
   </a> 
 </p>
@@ -60,7 +61,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: naveenjose24@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here]([https://github.com/naveen jose/naveen jose](https://github.com/naveenJose24)/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/naveenJose24/issues)
 
 </p>
 
@@ -93,14 +94,16 @@
 
 <br/>
 
+
+<!-----
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=naveenjose24&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/naveenjose24/itasks](https://github.com/naveenJose24/firebase.website))
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=naveenjose24&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/naveenjose/urfolio](https://github.com/naveenJose24/movie-app---bloc))
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=naveenjose24&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/naveen jose/web-projects](https://github.com/naveenJose24/movie-app---bloc))
-
+-->
 
 <p align="left">
-  <a href="[https://github.com/naveen jose](https://github.com/naveenJose24/)?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/naveenJose24/?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -108,22 +111,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/naveen jose](https://github.com/naveenJose24/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen jose&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/naveenJose24/">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenjose&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/naveen jose">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveen jose&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/naveenjose24">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenjose&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/naveen jose"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=naveen jose&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/naveen jose"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naveen jose&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/naveenjose24"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=naveenjose&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/naveenjose24"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naveenjose&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen jose&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Naveen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenjose&custom_title=Naveen%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
