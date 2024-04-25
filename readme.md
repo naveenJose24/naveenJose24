@@ -57,12 +57,13 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+  <!--
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: naveenjose24@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/naveenJose24/issues)
-
+ -->
+<p>Experienced Mobile App Developer is adept in all stages of advanced mobile development. Knowledgeable in the user interface, testing, and debugging processes. Bringing forth expertise in designing, installing, testing, and maintaining mobile systems. Proficient in an assortment of technologies, like flutter. Able to effectively self-manage during independent projects and collaborate in a team setting.</p>
 </p>
 
 <br/>
