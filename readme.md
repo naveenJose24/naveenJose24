@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome!
+  Hello Everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -23,7 +23,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.naveenjose.online/">Naveen Jose</a></b>
+                <b><a target="_blank" href="https://www.naveenjose.online/"><h1 style="color:green;">Naveen Jose</h1></a></b>
         </samp>
 </h3>
 
