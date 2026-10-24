@@ -104,14 +104,13 @@ Senior Flutter Developer with **5+ years** of experience shipping cross-platform
 ## GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-xi-pied.vercel.app/api?username=naveenjose24&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=naveenjose24&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveenjose24&theme=github_dark" alt="GitHub stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=naveenjose24&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
 </p>
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenjose24&theme=github_dark" alt="Repos per language"/>
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenjose24&theme=github_dark" alt="Most commit language"/>
-  <img height="180" src="https://github-readme-stats-xi-pied.vercel.app/api/top-langs/?username=naveenjose24&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages"/>
 </p>
 
 ### 🏆 Trophies
