@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3B99FC&height=180&section=header&text=Naveen%20Jose&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Flutter%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Naveen Jose banner"/>
-</p>
-
 <h1 align="center">Hi, I'm Naveen Jose 👋</h1>
 
 <p align="center">
@@ -97,13 +93,13 @@ Senior Flutter Developer with **5+ years** of experience shipping cross-platform
 
 ## Open-source packages
 
-| Package | Description | Version | Likes |
-| --- | --- | --- | --- |
-| [sf_cli](https://pub.dev/packages/sf_cli) | Flutter CLI for scaffolding features, generating models and enforcing clean architecture | [![pub](https://img.shields.io/pub/v/sf_cli?style=flat-square&color=0175C2)](https://pub.dev/packages/sf_cli) | [![likes](https://img.shields.io/pub/likes/sf_cli?style=flat-square)](https://pub.dev/packages/sf_cli/score) |
-| [animations_plus](https://pub.dev/packages/animations_plus) | Pre-built widgets and utilities for smooth, performant Flutter animations | [![pub](https://img.shields.io/pub/v/animations_plus?style=flat-square&color=0175C2)](https://pub.dev/packages/animations_plus) | [![likes](https://img.shields.io/pub/likes/animations_plus?style=flat-square)](https://pub.dev/packages/animations_plus/score) |
-| [country_picker_flutter_plus](https://pub.dev/packages/country_picker_flutter_plus) | Country picker with advanced search, regional grouping and deep customization | [![pub](https://img.shields.io/pub/v/country_picker_flutter_plus?style=flat-square&color=0175C2)](https://pub.dev/packages/country_picker_flutter_plus) | [![likes](https://img.shields.io/pub/likes/country_picker_flutter_plus?style=flat-square)](https://pub.dev/packages/country_picker_flutter_plus/score) |
-| [flutter_auto_shimmer](https://pub.dev/packages/flutter_auto_shimmer) | Tiny, dependency-free shimmer loading effect that preserves border radii | [![pub](https://img.shields.io/pub/v/flutter_auto_shimmer?style=flat-square&color=0175C2)](https://pub.dev/packages/flutter_auto_shimmer) | [![likes](https://img.shields.io/pub/likes/flutter_auto_shimmer?style=flat-square)](https://pub.dev/packages/flutter_auto_shimmer/score) |
-| [json_to_model_generator](https://github.com/naveenJose24/json_to_model_generator) | Dart package that generates model classes from JSON strings | GitHub | — |
+| Package | Description |
+| --- | --- |
+| [sf_cli](https://pub.dev/packages/sf_cli) | Flutter CLI for scaffolding features, generating models and enforcing clean architecture |
+| [animations_plus](https://pub.dev/packages/animations_plus) | Pre-built widgets and utilities for smooth, performant Flutter animations |
+| [country_picker_flutter_plus](https://pub.dev/packages/country_picker_flutter_plus) | Country picker with advanced search, regional grouping and deep customization |
+| [flutter_auto_shimmer](https://pub.dev/packages/flutter_auto_shimmer) | Tiny, dependency-free shimmer loading effect that preserves border radii |
+| [json_to_model_generator](https://github.com/naveenJose24/json_to_model_generator) | Dart package that generates model classes from JSON strings |
 
 ## GitHub analytics
 
@@ -141,8 +137,4 @@ Senior Flutter Developer with **5+ years** of experience shipping cross-platform
 
 <p align="center">
   More work and case studies at <a href="https://naveenjose.qzz.io/">naveenjose.qzz.io</a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3B99FC&height=100&section=footer" alt=""/>
 </p>
