@@ -6,6 +6,15 @@
 </p>
 
 <p align="center">
+  <a href="https://naveenjose.qzz.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B99FC&center=true&vCenter=true&width=520&lines=Flutter+%7C+Android+%7C+iOS;AI-powered+mobile+apps;Clean+Architecture+%2B+BLoC;Payments%2C+real-time+chat+%26+WebRTC;Open-source+Flutter+packages+on+pub.dev" alt="Typing summary"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveenjose24&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/naveenJose24?tab=followers"><img src="https://img.shields.io/github/followers/naveenJose24?label=Followers&style=flat-square&color=0A66C2" alt="GitHub followers"/></a>
+</p>
+
+<p align="center">
   <a href="https://naveenjose.qzz.io/"><img src="https://img.shields.io/badge/Portfolio-naveenjose.qzz.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/naveen-jose-377229145"><img src="https://img.shields.io/badge/LinkedIn-Naveen%20Jose-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://pub.dev/publishers/naveenjose.online/packages"><img src="https://img.shields.io/badge/pub.dev-Packages-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev packages"/></a>
@@ -25,6 +34,10 @@ Senior Flutter Developer with **5+ years** of experience shipping cross-platform
 - 🚀 Delivery: Jenkins CI/CD and Shorebird over-the-air updates
 
 ## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,kotlin,firebase,nextjs,ts,tailwind,jenkins,git,vscode&perline=12" alt="Tech stack icons"/>
+</p>
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -88,15 +101,37 @@ Senior Flutter Developer with **5+ years** of experience shipping cross-platform
 | [flutter_auto_shimmer](https://pub.dev/packages/flutter_auto_shimmer) | Tiny, dependency-free shimmer loading effect that preserves border radii |
 | [json_to_model_generator](https://github.com/naveenJose24/json_to_model_generator) | Dart package that generates model classes from JSON strings |
 
-## GitHub stats
+## GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-xi-pied.vercel.app/api?username=naveenjose24&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="Naveen's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-xi-pied.vercel.app/api/top-langs/?username=naveenjose24&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Naveen's top languages"/>
+  <img height="165" src="https://github-readme-stats-xi-pied.vercel.app/api?username=naveenjose24&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=naveenjose24&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=naveenjose24&hide_border=true&theme=github-dark-blue" alt="Naveen's GitHub streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenjose24&theme=github_dark" alt="Repos per language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenjose24&theme=github_dark" alt="Most commit language"/>
+  <img height="180" src="https://github-readme-stats-xi-pied.vercel.app/api/top-langs/?username=naveenjose24&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages"/>
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=naveenjose24&theme=darkhub&no-frame=true&margin-w=8&column=7" alt="GitHub trophies"/>
+</p>
+
+### 📈 Contribution graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/3B99FC/naveenJose24" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveenJose24/naveenJose24/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveenJose24/naveenJose24/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/naveenJose24/naveenJose24/output/github-snake.svg" alt="Contribution snake animation"/>
+  </picture>
 </p>
 
 ---
